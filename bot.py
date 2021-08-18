@@ -10,4 +10,4 @@ async def on_ready():
 
 bot.load_extension("cogs.reaction-roles")
 
-bot.run("ODI3NDE4Mjc0ODc4NzE3OTY0.YGavUQ.dTUlotCriVDzGutJLuad2hJG99M")
+bot.run("YOUR_TOKEN_HERE")
